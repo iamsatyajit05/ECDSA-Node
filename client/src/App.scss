@@ -68,7 +68,7 @@ input {
   display: flex;
   flex-direction: column;
 
-  .balance {
+  .balance, .address {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
